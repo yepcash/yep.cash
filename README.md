@@ -1,1 +1,1 @@
-# yepdotcash.github.io
+# https://www.yep.cash
