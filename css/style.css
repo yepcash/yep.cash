@@ -7223,12 +7223,14 @@ html, section {
     margin: 0;
   }
   .navbar .navbar-brand {
-    /*      padding-left: 58px;
-      background: url(../media/icon.png) no-repeat 15px center;
-      background-size: 32px 32px; */
-    font-size: 18px;
+    padding-left: 52px;
+    margin-top: -3px;
+    background-image: url(../media/icon.png);
+    background-repeat: no-repeat;
+    background-size: 32px 32px;
+    background-position: 15px 7px;
+    font-size: 22px;
     color: #0e2258;
-    margin-top: -1px;
     font-family: 'Poppins', sans-serif;
   }
 }
