@@ -1,1 +1,2 @@
-# https://www.yep.cash
+# [yep.cash](https://yep.cash)
+Get unlimited ClamCoins
